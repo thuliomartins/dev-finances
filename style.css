@@ -184,6 +184,10 @@ header {
     padding: 1rem 2rem;
 }
 
+#data-table .btnRemove {
+    cursor: pointer;
+}
+
 td.description {
     color: var(--dark-blue);
 }
@@ -208,6 +212,7 @@ td.expense {
     justify-content: center;
     opacity: 0;
     visibility: hidden;
+    z-index: 999;
 }
 
 .modal-overlay.active {
@@ -240,7 +245,7 @@ input {
     margin: 0.8rem;
 }
 
-.input-group small {
+.input-group .help {
     opacity: 0.4;
 }
 
