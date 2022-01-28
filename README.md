@@ -7,5 +7,5 @@
 * Javascript
 
 <p align="left">
-    <img src="/src/assets/to-readme/result.gif">
+    <img src="/assets/to-readme/result.gif">
 </p>
