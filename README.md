@@ -5,7 +5,6 @@
 * HTML
 * CSS
 * Javascript
-    * local-storage
 
 <p align="left">
     <img src="/src/assets/to-readme/result.gif">
